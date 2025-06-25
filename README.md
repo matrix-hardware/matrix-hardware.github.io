@@ -14,3 +14,12 @@ We hope you can find good qualities products on our store
 
 20250624_222509.jpg
 
+found the fonder named
+=the_king_of_alharthi
+
+For more links you can go to the link of taht instagram bio above
+finding a hardware store like ours is very hard to find
+it offer hardwares and saniteries with decent prices
+hope you come and who ever presses the link will get a 10 percent disscount
+
+HOPE YOU COME:THANKS....
