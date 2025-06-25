@@ -7,3 +7,7 @@ Opening times are from 8am up to 12pm
 it is located at Kiembesamaki Zanzibar
 More products are found on our youtube channel
 Thanks...
+
+🌍🌐⛈️
+
+We hope you can find good qualities products on our store
