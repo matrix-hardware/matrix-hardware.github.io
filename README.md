@@ -4,6 +4,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tool Gallery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>My Tool Collection</h1>
+    </header>
+    <main>
+        <div class="image-container">
+            <h2>Hammer</h2>
+            <img src="https://via.placeholder.com/200x200/FF0000/FFFFFF?text=Hammer+Image" alt="A hammer tool">
+        </div>
+
+        <div class="image-container">
+            <h2>Screwdriver</h2>
+            <img src="https://via.placeholder.com/200x200/00FF00/000000?text=Screwdriver+Image" alt="A screwdriver tool">
+        </div>
+
+        <div class="image-container">
+            <h2>Light</h2>
+            <img src="https://via.placeholder.com/200x200/0000FF/FFFFFF?text=Light+Image" alt="A light source">
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2025 Tool Gallery</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Hardware Store</title>
     <style>
         /* Basic CSS for the layout */
@@ -145,4 +178,13 @@
     </footer>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Hardware Store</title>
+    <style>
+        /* Basic CSS for the layout */
+        
 
