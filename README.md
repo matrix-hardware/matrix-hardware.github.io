@@ -12,6 +12,8 @@
         <h1>Welcome to Your Hardware Store!</h1>
     </header>
     <main>
+        <img src="tools.jpg" alt="A collection of various hardware tools" class="main-image">
+
         <p>Your one-stop shop for all your hardware needs.</p>
         <p>We offer a wide range of tools, building materials, and home improvement supplies.</p>
     </main>
@@ -55,3 +57,13 @@ footer {
     color: white;
     font-size: 0.9em;
 }
+
+.main-image {
+    max-width: 100%; /* Ensures the image doesn't overflow its container */
+    height: auto;    /* Maintains the image's aspect ratio */
+    display: block;  /* Removes extra space below the image */
+    margin: 20px auto; /* Adds space above/below and centers it */
+    border-radius: 8px; /* Slightly rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
